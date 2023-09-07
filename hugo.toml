@@ -1,0 +1,3 @@
+baseURL = 'https://blog.cf.yq59.top/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
