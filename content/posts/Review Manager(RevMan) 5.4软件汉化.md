@@ -54,4 +54,12 @@ resource文件夹里面就有三个语言文件了，
 1. 安装 `RevMan_5_4_windows-x64.exe`
 2. 打开软件安装目录，使用压缩软件打开 `rm5.jar` ，进入`\org\cochrane\revman5\resource\` ，将 `text_zh.properties` 文件放在这个目录里面，保存。
 
-现在打开软件，进入 
+现在打开软件，进入 `Tools` -> `Preferences` -> `Interface` 设置语言为中文。
+
+![image](https://image-view.yq59.top:2087/i/2023/10/26/image.png)
+
+![image](https://image-view.yq59.top:2087/i/2023/10/26/image_1.png)
+
+## 汉化过程
+
+整个汉化我是按照上面那个教程来的，
