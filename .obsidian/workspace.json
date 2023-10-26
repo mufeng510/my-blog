@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/Review Manager 5.4软件汉化.md",
+                "file": "content/posts/Review Manager(RevMan) 5.4软件汉化.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/Review Manager 5.4软件汉化.md",
+                "file": "content/posts/Review Manager(RevMan) 5.4软件汉化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/Review Manager 5.4软件汉化.md",
+                "file": "content/posts/Review Manager(RevMan) 5.4软件汉化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/Review Manager 5.4软件汉化.md"
+                "file": "content/posts/Review Manager(RevMan) 5.4软件汉化.md"
               }
             }
           },
@@ -167,7 +167,7 @@
   },
   "active": "c4c5831a9499da66",
   "lastOpenFiles": [
-    "content/posts/Review Manager 5.4软件汉化.md",
+    "content/posts/Review Manager(RevMan) 5.4软件汉化.md",
     "_Templates/hugo博客模板.md",
     "content/posts",
     "resources/_gen/assets/scss/css/style.scss_26962b449d539ee5c1301a7879e5bb0e.json",
