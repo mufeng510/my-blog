@@ -1,11 +1,11 @@
 ---
 title: Review Manager 5.4软件汉化
-tags: []
+tags: 
 date: 2023-10-26 20:07:11
-draft: true
+draft: false
 hideInList: false
 isTop: false
-feature: 
+feature:
 ---
 **RevMan简介**
 
@@ -62,4 +62,11 @@ resource文件夹里面就有三个语言文件了，
 
 ## 汉化过程
 
-整个汉化我是按照上面那个教程来的，翻译是通过 GPT 完成的，
+整个汉化我是按照上面那个教程来的，翻译是通过 GPT 完成的，prompt 如下：
+
+```
+接下来我会给你发送一些类似于DEFAULT_JOURNALS=xxx的数据，你需要把=后面的xxx内容翻译成中文并转为对应的unicode，然后把处理后的数据整体发送给我。注意，如果一行以#开头则无需处理，如果你明白了，请将这个示例数据进行处理: DEFAULT_JOURNALS=Default journals，请将处理后的数据发送给我
+```
+
+最后效果：
+
