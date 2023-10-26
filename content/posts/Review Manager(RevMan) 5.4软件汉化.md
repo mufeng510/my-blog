@@ -43,4 +43,15 @@ resource文件夹里面就有三个语言文件了，
 重新启动revman5，然后进入tools-preferences，在interface标签中对preferred language进行设置，选择chinese(china)，保存后重启revman5，已经是中文界面了。
 ```
 
-并不复杂，最麻烦得还是翻译英语，不过好在我们现在有了 `ChatGPT` ，整个过程简单了不少，我会把
+并不复杂，最麻烦得还是翻译中文再转成Unicode，不过好在我们现在有了 `ChatGPT` ，整个过程简单了不少，我会把汉化过程写在后面。
+
+## 汉化成果
+
+先上成果：RevMan5.4汉化版
+
+使用方法：
+
+1. 安装 `RevMan_5_4_windows-x64.exe`
+2. 打开软件安装目录，使用压缩软件打开 `rm5.jar` ，进入`\org\cochrane\revman5\resource\` ，将 `text_zh.properties` 文件放在这个目录里面，保存。
+
+现在打开软件，进入 
