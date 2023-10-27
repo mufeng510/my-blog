@@ -11,24 +11,15 @@
             "id": "990dfe3c6fa2570a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c4c5831a9499da66",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "archetypes/default.md",
+                "file": "content/posts/Review Manager(RevMan) 5.4软件汉化.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "archetypes/default.md",
+                "file": "content/posts/Review Manager(RevMan) 5.4软件汉化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "archetypes/default.md",
+                "file": "content/posts/Review Manager(RevMan) 5.4软件汉化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "archetypes/default.md"
+                "file": "content/posts/Review Manager(RevMan) 5.4软件汉化.md"
               }
             }
           },
@@ -165,12 +156,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c4c5831a9499da66",
+  "active": "990dfe3c6fa2570a",
   "lastOpenFiles": [
+    "themes/FixIt/README.zh-cn.md",
+    "archetypes/default.md",
     "themes/FixIt/CONTRIBUTING.md",
     "themes/FixIt/CODE_OF_CONDUCT.md",
     "themes/FixIt/CHANGELOG.md",
-    "themes/FixIt/README.zh-cn.md",
     "themes/FixIt/README.md",
     "content/posts/Review Manager(RevMan) 5.4软件汉化.md",
     "_Templates/hugo博客模板.md",
@@ -201,7 +193,6 @@
     "themes/FixIt/archetypes/offline.md",
     "themes/FixIt/archetypes/friends.md",
     "themes/FixIt/archetypes/default.md",
-    "archetypes/default.md",
     "content/posts/测试.md",
     "content/post/未命名.md",
     "未命名.canvas",

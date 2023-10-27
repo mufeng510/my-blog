@@ -47,7 +47,7 @@ resource文件夹里面就有三个语言文件了，
 
 ## 汉化成果
 
-先上成果：RevMan5.4汉化版
+先上成果：[RevMan5.4汉化版](https://wwoj.lanzouw.com/i2t361cyz04h)
 
 使用方法：
 
