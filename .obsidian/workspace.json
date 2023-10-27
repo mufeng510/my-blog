@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/Review Manager(RevMan) 5.4软件汉化.md",
+                "file": "archetypes/default.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/Review Manager(RevMan) 5.4软件汉化.md",
+                "file": "archetypes/default.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/Review Manager(RevMan) 5.4软件汉化.md",
+                "file": "archetypes/default.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/Review Manager(RevMan) 5.4软件汉化.md"
+                "file": "archetypes/default.md"
               }
             }
           },
@@ -167,6 +167,11 @@
   },
   "active": "c4c5831a9499da66",
   "lastOpenFiles": [
+    "themes/FixIt/CONTRIBUTING.md",
+    "themes/FixIt/CODE_OF_CONDUCT.md",
+    "themes/FixIt/CHANGELOG.md",
+    "themes/FixIt/README.zh-cn.md",
+    "themes/FixIt/README.md",
     "content/posts/Review Manager(RevMan) 5.4软件汉化.md",
     "_Templates/hugo博客模板.md",
     "content/posts",
@@ -196,11 +201,6 @@
     "themes/FixIt/archetypes/offline.md",
     "themes/FixIt/archetypes/friends.md",
     "themes/FixIt/archetypes/default.md",
-    "themes/FixIt/README.zh-cn.md",
-    "themes/FixIt/README.md",
-    "themes/FixIt/CONTRIBUTING.md",
-    "themes/FixIt/CODE_OF_CONDUCT.md",
-    "themes/FixIt/CHANGELOG.md",
     "archetypes/default.md",
     "content/posts/测试.md",
     "content/post/未命名.md",
