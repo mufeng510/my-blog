@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/Review Manager(RevMan) 5.4软件汉化.md",
+                "file": "_Templates/hugo博客模板.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/Review Manager(RevMan) 5.4软件汉化.md",
+                "file": "_Templates/hugo博客模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/Review Manager(RevMan) 5.4软件汉化.md",
+                "file": "_Templates/hugo博客模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/Review Manager(RevMan) 5.4软件汉化.md"
+                "file": "_Templates/hugo博客模板.md"
               }
             }
           },
@@ -135,7 +135,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -158,13 +160,13 @@
   },
   "active": "990dfe3c6fa2570a",
   "lastOpenFiles": [
+    "content/posts/Review Manager(RevMan) 5.4软件汉化.md",
     "themes/FixIt/README.zh-cn.md",
     "archetypes/default.md",
     "themes/FixIt/CONTRIBUTING.md",
     "themes/FixIt/CODE_OF_CONDUCT.md",
     "themes/FixIt/CHANGELOG.md",
     "themes/FixIt/README.md",
-    "content/posts/Review Manager(RevMan) 5.4软件汉化.md",
     "_Templates/hugo博客模板.md",
     "content/posts",
     "resources/_gen/assets/scss/css/style.scss_26962b449d539ee5c1301a7879e5bb0e.json",

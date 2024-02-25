@@ -38,3 +38,22 @@ theme = "FixIt"
   [markup.highlight]
     # false 是必要的设置 (https://github.com/hugo-fixit/FixIt/issues/43)
     noClasses = false
+
+# 评论系统
+[params.page.comment]
+  enable = true
+    [params.page.comment.giscus]
+      enable = true
+      repo = "mufeng510/my-blog"
+      repoId = "R_kgDOKPOyvw"
+      category = "Announcements"
+      categoryId = "DIC_kwDOKPOyv84CdgCT"
+      mapping = "pathname"
+      strict = "0" # FixIt NEW | 0.2.18
+      term = ""
+      reactionsEnabled = "1"
+      emitMetadata = "0"
+      inputPosition = "bottom" # ["top", "bottom"]
+      lightTheme = "light"
+      darkTheme = "dark"
+      lazyLoad = true
