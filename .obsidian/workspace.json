@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b3834108463747ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/js常见问题.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/Review Manager(RevMan) 5.4软件汉化.md",
+                "file": "content/posts/js常见问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/Review Manager(RevMan) 5.4软件汉化.md",
+                "file": "content/posts/js常见问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/Review Manager(RevMan) 5.4软件汉化.md"
+                "file": "content/posts/js常见问题.md"
               }
             }
           },
@@ -158,9 +171,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "990dfe3c6fa2570a",
+  "active": "b3834108463747ce",
   "lastOpenFiles": [
     "content/posts/Review Manager(RevMan) 5.4软件汉化.md",
+    "content/posts/js常见问题.md",
     "archetypes/default.md",
     "_Templates/hugo博客模板.md",
     "themes/FixIt/README.zh-cn.md",
