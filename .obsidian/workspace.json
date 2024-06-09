@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "f616bc4dfb4ddb12",
+        "id": "f3277ef476a24b9d",
         "type": "tabs",
         "children": [
           {
-            "id": "185744ed3af939d6",
+            "id": "027da2a992a6fd81",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/Review Manager(RevMan) 5.4软件汉化.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/Review Manager(RevMan) 5.4软件汉化.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/Review Manager(RevMan) 5.4软件汉化.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/posts/Review Manager(RevMan) 5.4软件汉化.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,10 +150,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "185744ed3af939d6",
+  "active": "027da2a992a6fd81",
   "lastOpenFiles": [
-    "content/posts/js常见问题.md",
     "content/posts/Review Manager(RevMan) 5.4软件汉化.md",
+    "content/posts/js常见问题.md",
     "_Templates/hugo博客模板.md",
     "themes/FixIt/layouts/taxonomy/terms/tags.html",
     "themes/FixIt/layouts/taxonomy/terms/collections.html",
