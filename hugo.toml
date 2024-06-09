@@ -14,8 +14,6 @@ theme = "FixIt"
   # FixIt 主题版本
   version = "0.3.X"
   description = "沐风的博客"
-
-[params]
   [params.author]
     name = "沐风"
     email = "379469845@qq.com"
