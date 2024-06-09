@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Templates/hugo博客模板.md",
+                "file": "content/posts/js常见问题.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Templates/hugo博客模板.md",
+                "file": "content/posts/js常见问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Templates/hugo博客模板.md",
+                "file": "content/posts/js常见问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Templates/hugo博客模板.md"
+                "file": "content/posts/js常见问题.md"
               }
             }
           },
@@ -160,7 +160,9 @@
   },
   "active": "185744ed3af939d6",
   "lastOpenFiles": [
+    "content/posts/Review Manager(RevMan) 5.4软件汉化.md",
     "content/posts/js常见问题.md",
+    "_Templates/hugo博客模板.md",
     "themes/FixIt/layouts/taxonomy/terms/tags.html",
     "themes/FixIt/layouts/taxonomy/terms/collections.html",
     "themes/FixIt/layouts/taxonomy/terms/categories.html",
@@ -191,9 +193,7 @@
     "themes/FixIt/archetypes/friends.md",
     "themes/FixIt/archetypes/default.md",
     "themes/FixIt/layouts/_default/single.md",
-    "content/posts/Review Manager(RevMan) 5.4软件汉化.md",
     "archetypes/default.md",
-    "_Templates/hugo博客模板.md",
     "themes/FixIt/CODE_OF_CONDUCT.md",
     "themes/FixIt/CHANGELOG.md",
     "themes/FixIt/contributors.md",
