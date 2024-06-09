@@ -1,5 +1,5 @@
 title = "沐风的博客"
-baseURL = "http://bolg.cf.yq59.top/"
+baseURL = "https://blog.cf.yq59.top"
 # 设置默认的语言 ["en", "zh-cn", "fr", "pl", ...]
 defaultContentLanguage = "zh-cn"
 # 网站语言, 仅在这里 CN 大写 ["en", "zh-CN", "fr", "pl", ...]
@@ -12,7 +12,14 @@ theme = "FixIt"
 
 [params]
   # FixIt 主题版本
-  version = "0.2.X"
+  version = "0.3.X"
+  description = "沐风的博客"
+
+[params]
+  [params.author]
+    name = "沐风"
+    email = "379469845@qq.com"
+    link = "https://github.com/mufeng510"
 
 [menu]
   [[menu.main]]
