@@ -56,9 +56,9 @@ resource文件夹里面就有三个语言文件了，
 
 现在打开软件，进入 `Tools` -> `Preferences` -> `Interface` 设置语言为中文。
 
-![image](https://image-view.yq59.top:2087/i/2023/10/26/image.png)
+![image](https://image-view.yq59.top/2023/10/26/image.png)
 
-![image](https://image-view.yq59.top:2087/i/2023/10/26/image_1.png)
+![image](https://image-view.yq59.top/2023/10/26/image_1.png)
 
 ## 汉化过程
 
@@ -70,5 +70,5 @@ resource文件夹里面就有三个语言文件了，
 
 最后效果：
 
-![数据处理和翻译](https://image-view.yq59.top:2087/i/2023/10/27/1653b06b7a61ae.png)
+![数据处理和翻译](https://image-view.yq59.top/2023/10/27/1653b06b7a61ae.png)
 
