@@ -11,8 +11,12 @@
             "id": "185744ed3af939d6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_Templates/hugo博客模板.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Templates/hugo博客模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_Templates/hugo博客模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_Templates/hugo博客模板.md"
+              }
             }
           },
           {
@@ -152,6 +160,7 @@
   },
   "active": "185744ed3af939d6",
   "lastOpenFiles": [
+    "content/posts/js常见问题.md",
     "themes/FixIt/layouts/taxonomy/terms/tags.html",
     "themes/FixIt/layouts/taxonomy/terms/collections.html",
     "themes/FixIt/layouts/taxonomy/terms/categories.html",
@@ -162,7 +171,6 @@
     "themes/FixIt/layouts/partials/single/collection-list.html",
     "themes/FixIt/layouts/partials/function/get-remote-json.html",
     "themes/FixIt/layouts/partials/function/get-remote-image.html",
-    "themes/FixIt/layouts/partials/function/format-number.html",
     "themes/FixIt/demo/content/posts/first_post.md",
     "themes/FixIt/assets/lib/simple-icons/icons/wails.svg",
     "themes/FixIt/assets/lib/simple-icons/icons/vyond.svg",
@@ -184,7 +192,6 @@
     "themes/FixIt/archetypes/default.md",
     "themes/FixIt/layouts/_default/single.md",
     "content/posts/Review Manager(RevMan) 5.4软件汉化.md",
-    "content/posts/js常见问题.md",
     "archetypes/default.md",
     "_Templates/hugo博客模板.md",
     "themes/FixIt/CODE_OF_CONDUCT.md",
