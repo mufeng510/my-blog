@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c8496dd6e433000d",
+        "id": "2922310a620f0856",
         "type": "tabs",
         "children": [
           {
-            "id": "893fdff6d83b25f6",
+            "id": "990dfe3c6fa2570a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/Obsidian+GitHub实现Hugo博客自动化发布的完美组合.md",
+                "file": "content/posts/Review Manager(RevMan) 5.4软件汉化.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3834108463747ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/js常见问题.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/Obsidian+GitHub实现Hugo博客自动化发布的完美组合.md",
+                "file": "content/posts/js常见问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/Obsidian+GitHub实现Hugo博客自动化发布的完美组合.md",
+                "file": "content/posts/js常见问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/Obsidian+GitHub实现Hugo博客自动化发布的完美组合.md"
+                "file": "content/posts/js常见问题.md"
               }
             }
           },
@@ -158,47 +171,45 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "893fdff6d83b25f6",
+  "active": "b3834108463747ce",
   "lastOpenFiles": [
-    "content/posts/Review Manager(RevMan) 5.4软件汉化.md",
     "content/posts/Obsidian+GitHub实现Hugo博客自动化发布的完美组合.md",
+    "content/posts/Review Manager(RevMan) 5.4软件汉化.md",
     "content/posts/js常见问题.md",
-    "_Templates/hugo博客模板.md",
-    "themes/FixIt/layouts/taxonomy/terms/tags.html",
-    "themes/FixIt/layouts/taxonomy/terms/collections.html",
-    "themes/FixIt/layouts/taxonomy/terms/categories.html",
-    "themes/FixIt/layouts/taxonomy/terms",
-    "themes/FixIt/layouts/partials/single/related.html",
-    "themes/FixIt/layouts/partials/single/post-included-in.html",
-    "themes/FixIt/layouts/partials/single/collection-nav.html",
-    "themes/FixIt/layouts/partials/single/collection-list.html",
-    "themes/FixIt/layouts/partials/function/get-remote-json.html",
-    "themes/FixIt/layouts/partials/function/get-remote-image.html",
-    "themes/FixIt/demo/content/posts/first_post.md",
-    "themes/FixIt/assets/lib/simple-icons/icons/wails.svg",
-    "themes/FixIt/assets/lib/simple-icons/icons/vyond.svg",
-    "themes/FixIt/assets/lib/simple-icons/icons/vscodium.svg",
-    "themes/FixIt/assets/lib/simple-icons/icons/vorondesign.svg",
-    "themes/FixIt/assets/lib/simple-icons/icons/voipdotms.svg",
-    "themes/FixIt/assets/lib/simple-icons/icons/voidlinux.svg",
-    "themes/FixIt/assets/lib/simple-icons/icons/vivawallet.svg",
-    "themes/FixIt/assets/lib/simple-icons/icons/vitest.svg",
-    "themes/FixIt/assets/lib/simple-icons/icons/toml.svg",
-    "themes/FixIt/assets/lib/simple-icons/icons/toggltrack.svg",
-    "themes/FixIt/SECURITY.md",
-    "themes/FixIt/README.zh-cn.md",
-    "themes/FixIt/README.md",
-    "themes/FixIt/CONTRIBUTING.md",
-    "themes/FixIt/archetypes/post-bundle/index.md",
-    "themes/FixIt/archetypes/posts.md",
-    "themes/FixIt/archetypes/friends.md",
-    "themes/FixIt/archetypes/default.md",
-    "themes/FixIt/layouts/_default/single.md",
     "archetypes/default.md",
+    "_Templates/hugo博客模板.md",
+    "themes/FixIt/README.zh-cn.md",
+    "themes/FixIt/CONTRIBUTING.md",
     "themes/FixIt/CODE_OF_CONDUCT.md",
     "themes/FixIt/CHANGELOG.md",
+    "themes/FixIt/README.md",
+    "content/posts",
+    "resources/_gen/assets/scss/css/style.scss_26962b449d539ee5c1301a7879e5bb0e.json",
+    "resources/_gen/assets/scss/css/style.scss_26962b449d539ee5c1301a7879e5bb0e.content",
+    "resources/_gen/assets/scss/css",
+    "resources/_gen/assets/scss",
+    "resources/_gen/assets",
+    "resources/_gen",
+    "resources",
+    "themes/FixIt/images/tn.png",
+    "themes/FixIt/images/wechatpay.jpg",
+    "themes/FixIt/images/screenshot.png",
+    "themes/FixIt/images/Apple-Devices-Preview.jpg",
+    "themes/FixIt/images/alipay.jpg",
+    "themes/FixIt/images",
+    "themes/FixIt/assets/lib/typeit/index.umd.js",
+    "themes/FixIt/static/lib/lightgallery/images/loading.gif",
+    "themes/FixIt/static/lib/lightgallery/fonts/lg.svg",
+    "themes/FixIt/layouts/_default/single.md",
     "themes/FixIt/contributors.md",
+    "themes/FixIt/assets/svg/icons/rootme.svg",
+    "themes/FixIt/assets/svg/icons/plume.svg",
+    "themes/FixIt/assets/svg/icons/csdn.svg",
+    "themes/FixIt/archetypes/post-bundle/index.md",
+    "themes/FixIt/archetypes/posts.md",
     "themes/FixIt/archetypes/offline.md",
+    "themes/FixIt/archetypes/friends.md",
+    "themes/FixIt/archetypes/default.md",
     "content/posts/测试.md",
     "content/post/未命名.md",
     "未命名.canvas",
