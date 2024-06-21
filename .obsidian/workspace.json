@@ -13,18 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/Obsidian+GitHub实现Hugo博客自动化发布的完美组合.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b3834108463747ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "content/posts/js常见问题.md",
                 "mode": "source",
                 "source": false
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/Obsidian+GitHub实现Hugo博客自动化发布的完美组合.md",
+                "file": "content/posts/js常见问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/Obsidian+GitHub实现Hugo博客自动化发布的完美组合.md",
+                "file": "content/posts/js常见问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/Obsidian+GitHub实现Hugo博客自动化发布的完美组合.md"
+                "file": "content/posts/js常见问题.md"
               }
             }
           },
@@ -157,8 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,8 +157,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bfc01690b8d36e86",
+  "active": "990dfe3c6fa2570a",
   "lastOpenFiles": [
+    "content/posts/Obsidian+GitHub实现Hugo博客自动化发布的完美组合.md",
     "themes/FixIt/layouts/taxonomy/terms/tags.html",
     "themes/FixIt/layouts/taxonomy/terms/collections.html",
     "themes/FixIt/layouts/taxonomy/terms/categories.html",
@@ -190,14 +178,12 @@
     "themes/FixIt/demo/content/posts/first_post.md",
     "themes/FixIt/demo/content/posts",
     "themes/FixIt/demo/content",
-    "themes/FixIt/demo/hugo.toml",
     "themes/FixIt/assets/lib/simple-icons/icons/iris.svg",
     "themes/FixIt/assets/lib/simple-icons/icons/googleappsscript.svg",
     "themes/FixIt/assets/lib/simple-icons/icons/gdal.svg",
     "themes/FixIt/SECURITY.md",
     "content/posts/Review Manager(RevMan) 5.4软件汉化.md",
     "content/posts/js常见问题.md",
-    "content/posts/Obsidian+GitHub实现Hugo博客自动化发布的完美组合.md",
     "archetypes/default.md",
     "_Templates/hugo博客模板.md",
     "themes/FixIt/README.zh-cn.md",
