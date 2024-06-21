@@ -8,7 +8,6 @@ hideInList: false
 isTop: false
 feature:
 ---
-[TOC]
 
 ## es的新特性
 
