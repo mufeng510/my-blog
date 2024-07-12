@@ -18,11 +18,11 @@ ES（ECMAScript）是JavaScript的标准，随着每年的更新，它不断引�
 2. **箭头函数**：简化函数表达式，并且不绑定 `this`。
 3. **模板字符串**：使用反引号（\` \`）创建多行字符串和内嵌表达式。
 4. **解构赋值**：从数组或对象中提取数据并赋值给变量。
-```javascript
-   const [a, b] = [1, 2];
-   const {name, age} = {name: 'John', age: 30};
-```
-5. **默认参数**：函数参数的默认值。
+	```javascript
+	   const [a, b] = [1, 2];
+	   const {name, age} = {name: 'John', age: 30};
+   ```
+1. **默认参数**：函数参数的默认值。
    ```javascript
    function multiply(a, b = 1) {
        return a * b;
