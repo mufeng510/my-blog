@@ -117,7 +117,7 @@ ES（ECMAScript）是JavaScript的标准，随着每年的更新，它不断引�
 
 在JavaScript中，`var`、`let` 和 `const` 是用于声明变量的关键字，它们之间的区别主要体现在作用域、提升（hoisting）以及是否可以重新赋值上。下面详细解释它们的区别：
 
-### 1. `var`
+1. `var`
 - **作用域**：`var` 声明的变量具有函数作用域或全局作用域。它不具有块级作用域。
   ```javascript
   function example() {
@@ -143,7 +143,7 @@ ES（ECMAScript）是JavaScript的标准，随着每年的更新，它不断引�
   b = 3; // 合法
   ```
 
-### 2. `let`
+ 2. `let`
 - **作用域**：`let` 声明的变量具有块级作用域。
   ```javascript
   function example() {
@@ -166,7 +166,7 @@ ES（ECMAScript）是JavaScript的标准，随着每年的更新，它不断引�
   c = 3; // 合法
   ```
 
-### 3. `const`
+3. `const`
 - **作用域**：`const` 声明的变量具有块级作用域。
   ```javascript
   function example() {
@@ -198,3 +198,23 @@ ES（ECMAScript）是JavaScript的标准，随着每年的更新，它不断引�
 
 ## 原型和原型链
 
+ 原型（Prototype）
+
+1. **构造函数与原型对象**：
+    
+    - 在JavaScript中，函数也是对象，每个函数都有一个特殊的属性称为原型（prototype）。
+    - 当我们创建一个函数时，JavaScript会为该函数自动添加一个prototype属性，指向一个对象，这个对象就是该函数的原型对象。
+2. **原型对象的作用**：
+    
+    - 原型对象包含可供其他对象继承的属性和方法。
+    - 当我们创建一个新对象（实例）时，这个对象会从其构造函数的原型对象上继承属性和方法。
+
+ 原型链（Prototype Chain）
+
+1. **定义**：
+    
+    - 每个对象都有一个原型对象，而原型对象也有自己的原型，如果该原型还有原型，则形成了所谓的原型链。
+    - 当试图访问一个对象的属性或方法时，JavaScript引擎会首先在当前对象上查找，如果找不到，则会沿着原型链依次向上查找，直到找到对应的属性或方法或者达到原型链的末端（null）。
+2. **原型链的终点**：
+    
+    - 所有对象的原型链的顶端是Object.prototype，它是JavaScript中所有对象的基础，包含一些基本的方法，例如toString()和valueOf()。
