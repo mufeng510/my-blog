@@ -189,7 +189,7 @@ ES（ECMAScript）是JavaScript的标准，随着每年的更新，它不断引�
   // d = 3; // TypeError: Assignment to constant variable
   ```
 
-### 总结
+总结
 - **作用域**：`var` 有函数作用域或全局作用域；`let` 和 `const` 有块级作用域。
 - **提升**：`var` 声明会提升到作用域顶部；`let` 和 `const` 也会提升但存在暂时性死区。
 - **重新赋值和重新声明**：`var` 可以重新赋值和重新声明；`let` 可以重新赋值但不能重新声明；`const` 既不能重新赋值也不能重新声明，声明时必须初始化。
