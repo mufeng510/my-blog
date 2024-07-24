@@ -218,3 +218,6 @@ ES（ECMAScript）是JavaScript的标准，随着每年的更新，它不断引�
 2. **原型链的终点**：
     
     - 所有对象的原型链的顶端是Object.prototype，它是JavaScript中所有对象的基础，包含一些基本的方法，例如toString()和valueOf()。
+
+# 事件循环
+
