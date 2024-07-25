@@ -231,3 +231,6 @@ ES（ECMAScript）是JavaScript的标准，随着每年的更新，它不断引�
     
 4. **宏任务（Macro-tasks）与微任务（Micro-tasks）**：事件循环还区分宏任务（例如setTimeout、setInterval）和微任务（例如Promise的then、catch）。在每个宏任务执行完后，事件循环会先执行所有的微任务，然后再开始下一个宏任务。
 
+# this指向
+
+- 默认绑定
