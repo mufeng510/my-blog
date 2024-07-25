@@ -234,3 +234,6 @@ ES（ECMAScript）是JavaScript的标准，随着每年的更新，它不断引�
 # this指向
 
 - 默认绑定
+	当函数独立调用时，this默认绑定window
+-  隐式绑定
+- 显式绑定
