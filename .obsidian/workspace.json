@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/未命名.md",
+                "file": "content/posts/js常见问题.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/未命名.md",
+                "file": "content/posts/js常见问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/未命名.md",
+                "file": "content/posts/js常见问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/未命名.md"
+                "file": "content/posts/js常见问题.md"
               }
             }
           },
@@ -160,8 +160,8 @@
   },
   "active": "990dfe3c6fa2570a",
   "lastOpenFiles": [
+    "content/posts/TypeScript常见问题.md",
     "content/posts/js常见问题.md",
-    "content/posts/未命名.md",
     "content/posts/Obsidian+GitHub实现Hugo博客自动化发布的完美组合.md",
     "themes/FixIt/layouts/taxonomy/terms/tags.html",
     "themes/FixIt/layouts/taxonomy/terms/collections.html",
