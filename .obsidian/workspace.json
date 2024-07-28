@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/js常见问题.md",
+                "file": "content/posts/未命名.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/js常见问题.md",
+                "file": "content/posts/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/js常见问题.md",
+                "file": "content/posts/未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/js常见问题.md"
+                "file": "content/posts/未命名.md"
               }
             }
           },
@@ -160,6 +160,8 @@
   },
   "active": "990dfe3c6fa2570a",
   "lastOpenFiles": [
+    "content/posts/js常见问题.md",
+    "content/posts/未命名.md",
     "content/posts/Obsidian+GitHub实现Hugo博客自动化发布的完美组合.md",
     "themes/FixIt/layouts/taxonomy/terms/tags.html",
     "themes/FixIt/layouts/taxonomy/terms/collections.html",
@@ -184,7 +186,6 @@
     "themes/FixIt/assets/lib/simple-icons/icons/gdal.svg",
     "themes/FixIt/SECURITY.md",
     "content/posts/Review Manager(RevMan) 5.4软件汉化.md",
-    "content/posts/js常见问题.md",
     "archetypes/default.md",
     "_Templates/hugo博客模板.md",
     "themes/FixIt/README.zh-cn.md",
