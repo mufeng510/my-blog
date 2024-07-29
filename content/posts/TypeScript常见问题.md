@@ -3,7 +3,7 @@ title: TypeScript常见问题
 tags:
   - 面试题
 date: 2024-07-29 09:11:42
-draft: false
+draft: true
 hideInList: false
 isTop: false
 feature:
