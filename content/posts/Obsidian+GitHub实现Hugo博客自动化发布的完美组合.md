@@ -2,7 +2,7 @@
 title: Obsidian+GitHub实现Hugo博客自动化发布的完美组合
 tags: 
 date: 2024-06-10 18:01:58
-draft: false
+draft: true
 hideInList: false
 isTop: false
 feature:
