@@ -1,6 +1,7 @@
 ---
 title: TypeScript常见问题
-tags: 
+tags:
+  - 面试题
 date: 2024-07-28 09:11:42
 draft: false
 hideInList: false
