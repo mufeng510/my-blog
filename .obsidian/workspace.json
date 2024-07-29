@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/TypeScript常见问题.md",
-                "mode": "source",
+                "file": "content/posts/ts常见问题.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/TypeScript常见问题.md",
+                "file": "content/posts/ts常见问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/TypeScript常见问题.md",
+                "file": "content/posts/ts常见问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/TypeScript常见问题.md"
+                "file": "content/posts/ts常见问题.md"
               }
             }
           },
@@ -174,9 +174,9 @@
   "active": "f50c6f3877e2cc0d",
   "lastOpenFiles": [
     "content/posts/js常见问题.md",
-    "content/posts/TypeScript常见问题.md",
-    "content/posts/Obsidian+GitHub实现Hugo博客自动化发布的完美组合.md",
+    "content/posts/ts常见问题.md",
     "content/posts/Review Manager(RevMan) 5.4软件汉化.md",
+    "content/posts/Obsidian+GitHub实现Hugo博客自动化发布的完美组合.md",
     "content/posts/123.md",
     "themes/FixIt/layouts/taxonomy/terms/tags.html",
     "themes/FixIt/layouts/taxonomy/terms/collections.html",
