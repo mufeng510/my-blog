@@ -219,7 +219,7 @@ ES（ECMAScript）是JavaScript的标准，随着每年的更新，它不断引�
     
     - 所有对象的原型链的顶端是Object.prototype，它是JavaScript中所有对象的基础，包含一些基本的方法，例如toString()和valueOf()。
 
-# 事件循环
+## 事件循环
 
 事件循环（Event Loop）是JavaScript运行时的一个重要机制，用于处理异步操作。它允许JavaScript执行非阻塞代码，使其能够处理I/O操作、计时器等异步任务，而不必等待这些操作完成。以下是事件循环的工作原理简要说明：
 
@@ -231,7 +231,7 @@ ES（ECMAScript）是JavaScript的标准，随着每年的更新，它不断引�
     
 4. **宏任务（Macro-tasks）与微任务（Micro-tasks）**：事件循环还区分宏任务（例如setTimeout、setInterval）和微任务（例如Promise的then、catch）。在每个宏任务执行完后，事件循环会先执行所有的微任务，然后再开始下一个宏任务。
 
-# this指向
+## this指向
 
 - 默认绑定
 	当函数独立调用时，this默认绑定window
@@ -242,7 +242,7 @@ ES（ECMAScript）是JavaScript的标准，随着每年的更新，它不断引�
 - new绑定
 	通过new关键字来创建构造函数的实例，绑定this
 
-# for in 和 for of 有什么不同
+## for in 和 for of 有什么不同
 
 for...in 循环
 功能：用于遍历对象的可枚举属性。
@@ -257,7 +257,7 @@ for...of 循环
 遍历数组：使用 for...of。
 遍历对象：使用 for...in。
 
-# 闭包及其应用场景
+## 闭包及其应用场景
 
 闭包（Closure）是指函数和声明该函数的词法环境的组合。具体来说，闭包允许函数访问定义时的词法作用域（即它被创建时所处的环境），而不是调用时的作用域。这种机制使得函数可以保留对其词法作用域外部变量的引用，即使函数是在其词法作用域之外调用。
 
