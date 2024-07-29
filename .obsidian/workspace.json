@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fae40b6ecff6633e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/ts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/ts常见问题.md",
+                "file": "content/posts/ts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/ts常见问题.md",
+                "file": "content/posts/ts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/ts常见问题.md"
+                "file": "content/posts/ts.md"
               }
             }
           },
@@ -171,10 +183,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f50c6f3877e2cc0d",
+  "active": "fae40b6ecff6633e",
   "lastOpenFiles": [
-    "content/posts/js常见问题.md",
     "content/posts/ts常见问题.md",
+    "content/posts/ts.md",
+    "content/posts/js常见问题.md",
     "content/posts/Review Manager(RevMan) 5.4软件汉化.md",
     "content/posts/Obsidian+GitHub实现Hugo博客自动化发布的完美组合.md",
     "content/posts/123.md",
@@ -218,7 +231,6 @@
     "content/post/未命名.md",
     "未命名.canvas",
     "themes/herring-cove/README.md",
-    "themes/herring/LICENSE.md",
-    "themes/herring-cove/archetypes/default.md"
+    "themes/herring/LICENSE.md"
   ]
 }
