@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4bfd4faf03e54208",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/ts常见问题.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,14 +183,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4bfd4faf03e54208",
+  "active": "f50c6f3877e2cc0d",
   "lastOpenFiles": [
-    "content/posts/Review Manager(RevMan) 5.4软件汉化.md",
+    "content/posts/ts.md",
+    "content/posts/ts常见问题.md",
     "content/posts/js常见问题.md",
+    "content/posts/Review Manager(RevMan) 5.4软件汉化.md",
     "content/posts/Obsidian+GitHub实现Hugo博客自动化发布的完美组合.md",
     "content/posts/测试.md",
-    "content/posts/ts常见问题.md",
-    "content/posts/ts.md",
     "content/posts/123.md",
     "themes/FixIt/layouts/taxonomy/terms/tags.html",
     "themes/FixIt/layouts/taxonomy/terms/collections.html",
