@@ -11,8 +11,12 @@
             "id": "990dfe3c6fa2570a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/css常见问题.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/posts/css常见问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/posts/css常见问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/posts/css常见问题.md"
+              }
             }
           },
           {
@@ -150,8 +158,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "bfc01690b8d36e86",
+  "active": "990dfe3c6fa2570a",
   "lastOpenFiles": [
+    "content/posts/css常见问题.md",
+    "content/posts/css.md",
     "content/posts/ts常见问题.md",
     "content/posts/js常见问题.md",
     "content/posts/TypeScript常见问题.md",
@@ -196,8 +206,6 @@
     "content/posts/测试.md",
     "content/post/未命名.md",
     "未命名.canvas",
-    "themes/herring-cove/README.md",
-    "themes/herring/LICENSE.md",
-    "themes/herring-cove/archetypes/default.md"
+    "themes/herring-cove/README.md"
   ]
 }
