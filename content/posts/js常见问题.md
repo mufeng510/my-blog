@@ -268,3 +268,14 @@ for...of 循环
 
 
 ## Promise
+
+`Promise` 是 JavaScript 中用于处理异步操作的对象。它代表一个未来可能完成或失败的操作及其结果值。`Promise` 提供了一种更优雅和方便的方式来处理异步操作，避免了传统的回调地狱。
+
+基本概念
+
+1. **状态**：Promise 有三种状态：
+    
+    - **pending**（进行中）：初始状态，既不是成功也不是失败状态。
+    - **fulfilled**（已成功）：操作成功完成。
+    - **rejected**（已失败）：操作失败。
+2. **值**：Promise 具有一个值，该值在状态从 pending 变为 fulfilled 时变为最终值，或在状态从 pending 变为 rejected 时变为拒绝的原因。
