@@ -38,3 +38,20 @@ feature:
 
 ## flex布局
 
+基本概念
+
+1. **主轴（Main Axis）** 和 **交叉轴（Cross Axis）**：
+    
+    - 主轴：flex 项目排列的方向（水平或垂直）。
+    - 交叉轴：与主轴垂直的方向。
+2. **容器（Container）** 和 **项目（Items）**：
+    
+    - 容器：应用 `display: flex` 或 `display: inline-flex` 的元素。
+    - 项目：容器内的直接子元素。
+
+容器属性
+
+**display**：定义容器为 Flex 布局。
+**flex-direction**：定义主轴方向。
+**flex-wrap**：定义是否换行。
+
