@@ -76,3 +76,9 @@ SCSS 和 LESS 是两种 CSS 预处理器，它们都提供了增强的 CSS 功�
 变量定义
 SCSS 使用 $ 符号定义变量
 **LESS** 使用 `@` 符号定义变量
+混合（Mixins）
+**SCSS** 使用 `@mixin` 定义混合，使用 `@include` 引用混合
+**LESS** 直接定义一个类，然后使用类名调用
+继承
+**SCSS** 使用 `@extend` 进行继承
+**LESS** 使用 `&:extend` 进行继承
