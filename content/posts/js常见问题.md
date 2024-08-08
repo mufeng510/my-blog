@@ -281,3 +281,7 @@ for...of 循环
 2. **值**：Promise 具有一个值，该值在状态从 pending 变为 fulfilled 时变为最终值，或在状态从 pending 变为 rejected 时变为拒绝的原因。
 
 Promise 的常用方法有 `.then()`, `.catch()`, 和 `.finally()`。
+
+**Promise.all**：用于处理多个 Promise，所有 Promise 都成功时返回一个包含所有结果的数组，如果有一个 Promise 失败，则返回失败的原因。
+
+**Promise.race**：用于处理多个 Promise，只要有一个 Promise 成功或失败，就返回这个 Promise 的结果。
