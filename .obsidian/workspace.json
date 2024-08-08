@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/ts常见问题.md",
+                "file": "content/posts/js常见问题.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/ts常见问题.md",
+                "file": "content/posts/js常见问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/ts常见问题.md",
+                "file": "content/posts/js常见问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/ts常见问题.md"
+                "file": "content/posts/js常见问题.md"
               }
             }
           },
@@ -173,9 +173,9 @@
   },
   "active": "f50c6f3877e2cc0d",
   "lastOpenFiles": [
+    "content/posts/ts常见问题.md",
     "content/posts/js常见问题.md",
     "content/posts/css常见问题.md",
-    "content/posts/ts常见问题.md",
     "content/posts/测试.md",
     "content/posts/ts.md",
     "content/posts/Review Manager(RevMan) 5.4软件汉化.md",
