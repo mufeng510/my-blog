@@ -279,3 +279,5 @@ for...of 循环
     - **fulfilled**（已成功）：操作成功完成。
     - **rejected**（已失败）：操作失败。
 2. **值**：Promise 具有一个值，该值在状态从 pending 变为 fulfilled 时变为最终值，或在状态从 pending 变为 rejected 时变为拒绝的原因。
+
+Promise 的常用方法有 `.then()`, `.catch()`, 和 `.finally()`。
