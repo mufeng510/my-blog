@@ -67,3 +67,7 @@ feature:
 **flex**：简写属性，组合了 `flex-grow`, `flex-shrink` 和 `flex-basis`。
 **align-self**：覆盖容器的 `align-items` 属性，为单个项目设置对齐方式。
 
+## scss和less的区别
+
+
+
