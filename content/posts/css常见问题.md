@@ -54,4 +54,16 @@ feature:
 **display**：定义容器为 Flex 布局。
 **flex-direction**：定义主轴方向。
 **flex-wrap**：定义是否换行。
+**justify-content**：定义主轴对齐方式。
+**align-items**：定义交叉轴对齐方式。
+**align-content**：定义多行对齐方式。
+
+项目属性
+
+**order**：定义项目排列顺序。
+**flex-grow**：定义项目放大比例。
+**flex-shrink**：定义项目缩小比例。
+**flex-basis**：定义项目在主轴上的初始大小。
+**flex**：简写属性，组合了 `flex-grow`, `flex-shrink` 和 `flex-basis`。
+**align-self**：覆盖容器的 `align-items` 属性，为单个项目设置对齐方式。
 
