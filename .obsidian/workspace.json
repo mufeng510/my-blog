@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6eb7012e14e86cdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/前端框架常见问题.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/css常见问题.md",
+                "file": "content/posts/前端框架常见问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/css常见问题.md",
+                "file": "content/posts/前端框架常见问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/css常见问题.md"
+                "file": "content/posts/前端框架常见问题.md"
               }
             }
           },
@@ -171,11 +183,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f50c6f3877e2cc0d",
+  "active": "6eb7012e14e86cdf",
   "lastOpenFiles": [
+    "content/posts/css常见问题.md",
+    "content/posts/前端框架常见问题.md",
+    "content/posts/未命名.md",
     "content/posts/js常见问题.md",
     "content/posts/ts常见问题.md",
-    "content/posts/css常见问题.md",
     "content/posts/测试.md",
     "content/posts/ts.md",
     "content/posts/Review Manager(RevMan) 5.4软件汉化.md",
@@ -217,8 +231,6 @@
     "themes/FixIt/archetypes/offline.md",
     "themes/FixIt/archetypes/friends.md",
     "themes/FixIt/archetypes/default.md",
-    "content/post/未命名.md",
-    "未命名.canvas",
-    "themes/herring-cove/README.md"
+    "未命名.canvas"
   ]
 }
