@@ -291,3 +291,9 @@ Promise 的常用方法有 `.then()`, `.catch()`, 和 `.finally()`。
 call、apply都是调用函数，区别在于传参方式，call是分别传递，apply是将参数作为一个数组传入
 
 bind是创建了一个新函数，传参与call相同
+
+# js的数据类型
+
+值类型(基本类型)：字符串（String）、数字(Number)、布尔(Boolean)、空（Null）、未定义（Undefined）、Symbol。
+
+引用数据类型（对象类型）：对象(Object)、数组(Array)、函数(Function)，还有两个特殊的对象：正则（RegExp）和日期（Date）。
