@@ -19,6 +19,14 @@ feature:
 - BFC 的区域不会与浮动盒子重叠，会自动扩展以适应其内容的大小。
 - 创建 BFC 的方式包括根元素、浮动元素、绝对定位元素、块级容器、弹性盒子等。
 
+哪些元素会生成BFC?
+
+1. 根元素
+2. float属性不为none
+3. position为absolute或fixed
+4. display为inline-block, table-cell, table-caption, flex, inline-flex
+5. overflow不为visible
+
 ## Position 的值有哪些
 
 1. **static**：
