@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/css常见问题.md",
+                "file": "content/posts/前端/css常见问题.md",
                 "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6eb7012e14e86cdf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/posts/前端/js常见问题.md",
-                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/前端/js常见问题.md",
+                "file": "content/posts/前端/css常见问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/前端/js常见问题.md",
+                "file": "content/posts/前端/css常见问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/前端/js常见问题.md"
+                "file": "content/posts/前端/css常见问题.md"
               }
             }
           },
@@ -185,12 +173,13 @@
   },
   "active": "bfc01690b8d36e86",
   "lastOpenFiles": [
-    "content/posts/前端",
-    "content/posts/前端框架常见问题.md",
-    "content/posts/css常见问题.md",
-    "content/posts/未命名.md",
+    "_Templates/hugo博客模板.md",
     "content/posts/前端/js常见问题.md",
-    "content/posts/ts常见问题.md",
+    "content/posts/前端",
+    "content/posts/前端/前端框架常见问题.md",
+    "content/posts/前端/css常见问题.md",
+    "content/posts/未命名.md",
+    "content/posts/前端/ts常见问题.md",
     "content/posts/测试.md",
     "content/posts/ts.md",
     "content/posts/Review Manager(RevMan) 5.4软件汉化.md",
@@ -213,13 +202,11 @@
     "themes/FixIt/assets/images",
     "themes/FixIt/demo/content/posts/first_post.md",
     "themes/FixIt/demo/content/posts",
-    "themes/FixIt/demo/content",
     "themes/FixIt/assets/lib/simple-icons/icons/iris.svg",
     "themes/FixIt/assets/lib/simple-icons/icons/googleappsscript.svg",
     "themes/FixIt/assets/lib/simple-icons/icons/gdal.svg",
     "themes/FixIt/SECURITY.md",
     "archetypes/default.md",
-    "_Templates/hugo博客模板.md",
     "themes/FixIt/README.zh-cn.md",
     "themes/FixIt/CONTRIBUTING.md",
     "themes/FixIt/CODE_OF_CONDUCT.md",
