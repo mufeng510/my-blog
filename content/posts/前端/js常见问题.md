@@ -285,3 +285,9 @@ Promise 的常用方法有 `.then()`, `.catch()`, 和 `.finally()`。
 **Promise.all**：用于处理多个 Promise，所有 Promise 都成功时返回一个包含所有结果的数组，如果有一个 Promise 失败，则返回失败的原因。
 
 **Promise.race**：用于处理多个 Promise，只要有一个 Promise 成功或失败，就返回这个 Promise 的结果。
+
+# call、apply、bind三者的用法和区别
+
+call、apply都是调用函数，区别在于传参方式，call是分别传递，apply是将参数作为一个数组传入
+
+bind是创建了一个新函数，传参与call相同
