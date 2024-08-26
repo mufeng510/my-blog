@@ -25,9 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Templates/hugo博客模板.md",
+                "file": "content/posts/前端/前端基础常见问题.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Templates/hugo博客模板.md",
+                "file": "content/posts/前端/前端基础常见问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_Templates/hugo博客模板.md",
+                "file": "content/posts/前端/前端基础常见问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_Templates/hugo博客模板.md"
+                "file": "content/posts/前端/前端基础常见问题.md"
               }
             }
           },
@@ -173,15 +173,14 @@
   },
   "active": "dbbe1204abba28bc",
   "lastOpenFiles": [
-    "content/posts/前端基础常见问题.md",
-    "content/posts/前端/js常见问题.md",
-    "_Templates/hugo博客模板.md",
-    "content/posts/qq.md",
+    "content/posts/前端/前端框架常见问题.md",
     "content/posts/前端/前端基础常见问题.md",
+    "_Templates/hugo博客模板.md",
+    "content/posts/前端/js常见问题.md",
+    "content/posts/qq.md",
     "content/posts/前端/未命名.md",
     "content/posts/前端/css常见问题.md",
     "content/posts/前端",
-    "content/posts/前端/前端框架常见问题.md",
     "content/posts/未命名.md",
     "content/posts/前端/ts常见问题.md",
     "content/posts/测试.md",
