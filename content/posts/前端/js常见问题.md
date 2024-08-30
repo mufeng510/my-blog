@@ -297,3 +297,6 @@ bind是创建了一个新函数，传参与call相同
 值类型(基本类型)：字符串（String）、数字(Number)、布尔(Boolean)、空（Null）、未定义（Undefined）、Symbol。
 
 引用数据类型（对象类型）：对象(Object)、数组(Array)、函数(Function)，还有两个特殊的对象：正则（RegExp）和日期（Date）。
+
+# 箭头函数和普通函数的区别
+
