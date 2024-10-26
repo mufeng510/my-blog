@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/前端/前端基础常见问题.md",
-                "mode": "preview",
+                "file": "content/posts/前端/前端框架常见问题.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/前端/前端基础常见问题.md",
+                "file": "content/posts/前端/前端框架常见问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/前端/前端基础常见问题.md",
+                "file": "content/posts/前端/前端框架常见问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/前端/前端基础常见问题.md"
+                "file": "content/posts/前端/前端框架常见问题.md"
               },
               "icon": "lucide-list",
               "title": "前端框架常见问题 的大纲"
@@ -178,11 +178,12 @@
   },
   "active": "dbbe1204abba28bc",
   "lastOpenFiles": [
-    "content/posts/前端/css常见问题.md",
-    "content/posts/前端/js常见问题.md",
-    "content/posts/前端/ts常见问题.md",
+    "conflict-files-obsidian-git.md",
     "content/posts/前端/前端框架常见问题.md",
+    "content/posts/前端/js常见问题.md",
     "content/posts/前端/前端基础常见问题.md",
+    "content/posts/前端/css常见问题.md",
+    "content/posts/前端/ts常见问题.md",
     "content/posts/qq.md",
     "_Templates/hugo博客模板.md",
     "content/posts/前端/未命名.md",
